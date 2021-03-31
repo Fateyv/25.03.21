@@ -1,0 +1,23 @@
+.mobile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 66px;
+    margin-bottom: 200px;
+}
+
+.mobile_wrapper {
+    width: 32%;
+    .mobile_title {
+        margin-bottom: 32px;
+    }
+    .mobile_text {
+        font-size: 1.8rem;
+        line-height: 1.67; 
+        margin-bottom: 40px; 
+    }
+}
+
+.vector {
+    margin-left: 14px;
+}

@@ -1,0 +1,25 @@
+.providers {
+    padding-bottom: 104px;
+    margin-bottom: 125px;
+    background-image: url(../images/background_providers.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.providers_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.providers_content {
+    width: 32%;
+    .providers_title {
+        margin-bottom: 35px;
+    }
+    .providers_text {
+    font-size: 1.8rem;
+    line-height: 1.67;
+    margin-bottom: 40px;
+    }
+}
